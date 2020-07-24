@@ -31,8 +31,5 @@ def getPeople(maxPeople=MAXFRIENDS, maxPairs=MAXFRIENDS*2,density=3):
 
 
 
-if __name__ =="__main__":
-    persons,friends=getPeople()
-    print (persons)
-    print (friends)
+
     
